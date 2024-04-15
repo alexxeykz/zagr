@@ -40,11 +40,13 @@ mount -o remount,rw /
 В конце строки, начинающейся с linux16, добавляем rd.break и нажимаем сtrl-x для
 загрузки в систему
 
-рис5
+![5](https://github.com/alexxeykz/zagr/assets/163057177/278d2195-e4b0-4346-8d09-dc105156cf3e)
+
 
 Попадаем в emergency mode. Наша корневая файловая система смонтирована (опять же в режиме Read-Only, но мы не в ней). Далее будет пример, как попасть в нее и поменять пароль администратора:
 
-рис6
+![6](https://github.com/alexxeykz/zagr/assets/163057177/00378dde-aef4-49d9-abb6-75251ddaa5c6)
+
 ```
 switch_root:/#mount -o remount,rw /sysroot
 switch_root:/#chroot /sysroot
