@@ -190,7 +190,7 @@ test
 ```
 Редактируем
 [root@localhost ~]# vi /etc/default/grub
-```
+
 ![10](https://github.com/alexxeykz/zagr/assets/163057177/0bd7e3ee-d3e6-49de-a61f-238961393311)
 
 
