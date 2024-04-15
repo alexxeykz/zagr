@@ -54,7 +54,7 @@ sh-4.2#passwd root
 меняем пароль root
 
 sh-4.2#touch /.autorelabel
-
+```
 Перезагружаемся, заходим по новому паролю
 
 ![7](https://github.com/alexxeykz/zagr/assets/163057177/1c0a1eff-67a1-4648-a22c-9b2981d3667f)
