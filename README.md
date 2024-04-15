@@ -56,7 +56,8 @@ sh-4.2#passwd root
 sh-4.2#touch /.autorelabel
 
 Перезагружаемся, заходим по новому паролю
-![7](https://github.com/alexxeykz/zagr/assets/163057177/1c69ed4b-9a99-4de5-b317-90576d0665cf)
+
+![7](https://github.com/alexxeykz/zagr/assets/163057177/f1ed2336-7ebe-4e6b-9b60-dfc2a0753024)
 
 
 Способ 3. rw init=/sysroot/bin/sh
