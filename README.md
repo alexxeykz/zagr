@@ -30,7 +30,8 @@ mount | grep root
 mount -o remount,rw /
 ```
 
-рис4
+![4](https://github.com/alexxeykz/zagr/assets/163057177/e48b9291-c1a3-4898-bd89-12fd7f1e64ef)
+
 Теперь видим система пишет rw, можем записывать.
 
 
