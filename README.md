@@ -10,7 +10,7 @@
 
 Добавляем init=/bin/sh
 ```
-[https://github.com/alexxeykz/zagr/blob/main/1.jpg](https://github.com/alexxeykz/zagr/blob/main/1.jpg)
+https://github.com/alexxeykz/zagr/blob/main/1.png
 Попадаем в консоль
 рис2
 
