@@ -56,7 +56,8 @@ sh-4.2#passwd root
 sh-4.2#touch /.autorelabel
 
 Перезагружаемся, заходим по новому паролю
-рис 7.
+![7](https://github.com/alexxeykz/zagr/assets/163057177/1c69ed4b-9a99-4de5-b317-90576d0665cf)
+
 
 Способ 3. rw init=/sysroot/bin/sh
 
@@ -64,9 +65,11 @@ sh-4.2#touch /.autorelabel
 
 Это тоже самое, что и в предыдущих, только сразу с правами на изменение:
 
-рис 8
+![8](https://github.com/alexxeykz/zagr/assets/163057177/f75994fd-9028-4bc5-968a-5bc75ed50979)
 
-рис 9
+
+![9](https://github.com/alexxeykz/zagr/assets/163057177/b46e837f-0340-482a-9b65-1a6e7633ebe2)
+
 
 Установить систему с LVM, после чего переименовать VG
 
