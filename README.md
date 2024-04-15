@@ -10,7 +10,9 @@
 
 Добавляем init=/bin/sh
 ```
-![alt text]https://github.com/alexxeykz/zagr/blob/main/1.png
+рис1
+![1](https://github.com/alexxeykz/zagr/assets/163057177/77c262b1-ab7a-40a2-a37a-33d30c943505)
+
 Попадаем в консоль
 рис2
 
