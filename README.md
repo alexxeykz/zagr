@@ -10,7 +10,7 @@
 
 Добавляем init=/bin/sh
 ```
-zagr/1.jpg
+https://github.com/alexxeykz/zagr/blob/main/1.jpg
 Попадаем в консоль
 рис2
 
