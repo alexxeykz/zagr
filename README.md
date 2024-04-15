@@ -89,7 +89,7 @@ sh-4.2#touch /.autorelabel
 ```
 Далее правим /etc/fstab, /etc/default/grub, /boot/grub2/grub.cfg. Везде заменяем старое
 название на новое. По ссылкам можно увидеть примеры получившихся файлов.
-
+```
 #
 # /etc/fstab
 # Created by anaconda on Mon Apr 15 08:38:43 2024
